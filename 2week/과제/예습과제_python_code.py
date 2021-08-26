@@ -3,7 +3,6 @@
 # matplotlib
 
 **막대그래프**
-"""
 
 import matplotlib.pyplot as plt
 import pandas as pd
