@@ -10,5 +10,5 @@
 |6week|KNN, SVM|2021.10.06.Wed|4조|
 |7week|회귀|2021.11.03.Wed|5조|
 |8week|교차검증|2021.11.10.Wed|6조|
-|9week|kaggle competition|2021.11.17.Wed|
+|9week|Kaggle Competition|2021.11.17.Wed|
 |10week|의사결정나무|2021.11.24.Wed|1조|
