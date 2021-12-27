@@ -2,7 +2,7 @@
 ## :raising_hand: Me : 5조 :raising_hand:
 |week|학습 내용|날짜||
 |:---:|:---:|:---:|:---:|
-|1week|1.머신러닝을 위한 수학 <br/> 2. 파이썬 프로그래밍 기초 |2021.08.21.Sat|교육부|
+|[1week](https://github.com/juyeonyoon/BITAmin/tree/main/1week)|1.머신러닝을 위한 수학 <br/> 2. 파이썬 프로그래밍 기초 |2021.08.21.Sat|교육부|
 |2week|파이썬을 이용한 시각화 + 통계|2021.08.28.Sat|교육부|
 |3week|머신러닝 개요|2021.09.08.Wed|1조|
 |4week|데이터 전처리|2021.09.15.Wed|2조|
