@@ -12,4 +12,5 @@
 |[8week](https://github.com/juyeonyoon/BITAmin/tree/main/8week)|교차검증|2021.11.10.Wed|6조|
 |[9week](https://github.com/juyeonyoon/BITAmin/tree/main/9week)|Kaggle Competition|2021.11.17.Wed|
 |[10week](https://github.com/juyeonyoon/BITAmin/tree/main/10week)|의사결정나무|2021.11.24.Wed|1조|
-|[11week](https://github.com/juyeonyoon/BITAmin/tree/main/11week)|나이브 베이즈|2021.12.01.Wed|2조
+|[11week](https://github.com/juyeonyoon/BITAmin/tree/main/11week)|나이브 베이즈|2021.12.01.Wed|2조|
+|[12week](https://github.com/juyeonyoon/BITAmin/tree/main/12week)|차원축소|2021.12.29.Wed|3조|
