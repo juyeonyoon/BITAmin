@@ -14,8 +14,8 @@
 |[10week](https://github.com/juyeonyoon/BITAmin/tree/main/10week)|의사결정나무|2021.11.24.Wed|1조|
 |[11week](https://github.com/juyeonyoon/BITAmin/tree/main/11week)|나이브 베이즈|2021.12.01.Wed|2조|
 |[12week](https://github.com/juyeonyoon/BITAmin/tree/main/12week)|차원축소|2021.12.29.Wed|3조|
-|[13week]||앙상블|2022.01.08.Sat|4조|
-|[14week]||Kaggle Competition|2022.01.15.Sat|
-|[15week]||군집화|2022.01.22.Sat|5조|
-|||B-day 복습프로젝트|2022.02.05.Sat|
+|[13week]|앙상블|2022.01.08.Sat|4조|
+|[14week]|Kaggle Competition|2022.01.15.Sat|
+|[15week]|군집화|2022.01.22.Sat|5조|
+||B-day 복습프로젝트|2022.02.05.Sat|
 
