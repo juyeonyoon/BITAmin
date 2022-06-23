@@ -1,6 +1,6 @@
 ## :bulb: 데이터 분석동아리 BITAmin 8기 활동 :bulb:  
 ## :raising_hand: Me : 5조(1학기) / 4조(2학기) :raising_hand:
-|1학기|학습 내용|날짜|
+|1학기|학습 내용|날짜||
 |:---:|:---:|:---:|:---:|
 |[1week](https://github.com/juyeonyoon/BITAmin/tree/main/1week)|1.머신러닝을 위한 수학 <br/> 2. 파이썬 프로그래밍 기초 |2021.08.21.Sat|교육부|
 |[2week](https://github.com/juyeonyoon/BITAmin/tree/main/2week)|파이썬을 이용한 시각화 + 통계|2021.08.28.Sat|교육부|
