@@ -10,7 +10,7 @@
 |[6week](https://github.com/juyeonyoon/BITAmin/tree/main/6week)|KNN, SVM|2021.10.06.Wed|4조|[6week]|워드임베딩, 전이학습|2022.03.30.Wed|5조|
 |[7week](https://github.com/juyeonyoon/BITAmin/tree/main/7week)|회귀|2021.11.03.Wed|5조|[7week]|GAN|2022.04.04.Wed|6조|
 |[8week](https://github.com/juyeonyoon/BITAmin/tree/main/8week)|교차검증|2021.11.10.Wed|6조||Study|2022.05.11.Wed||
-|[9week](https://github.com/juyeonyoon/BITAmin/tree/main/9week)|Kaggle Competition1|||2021.11.17.Wed||Study|2022.05.18.Wed||
+|[9week](https://github.com/juyeonyoon/BITAmin/tree/main/9week)|Kaggle Competition1|2021.11.17.Wed|||Study|2022.05.18.Wed||
 |[10week](https://github.com/juyeonyoon/BITAmin/tree/main/10week)|의사결정나무|2021.11.24.Wed|1조||Study|2022.05.25.Wed||
 |[11week](https://github.com/juyeonyoon/BITAmin/tree/main/11week)|나이브 베이즈|2021.12.01.Wed|2조||Study|2022.06.01.Wed||
 |[12week](https://github.com/juyeonyoon/BITAmin/tree/main/12week)|차원축소|2021.12.29.Wed|3조|
