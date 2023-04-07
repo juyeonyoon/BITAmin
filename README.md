@@ -24,7 +24,8 @@
 ||Study|2022.05.18.Wed||
 ||Study|2022.05.25.Wed||
 ||Study|2022.06.01.Wed||
-## study 활동은 노션에 있습니다. [추천시스템 스터디 노션](https://innovative-tortoise-rec-django.notion.site/e1c3e1c6e3b44550a621c36856f80e19)
+
+🙂 study 활동은 노션에 있습니다. 추천시스템 스터디 노션[페이지](https://innovative-tortoise-rec-django.notion.site/e1c3e1c6e3b44550a621c36856f80e19)
 <!--
 |[1week]|딥러닝 개요    |2022.02.19.Sat|6조|
 |[2week]|과대적합, CNN|2022.03.02.Wed|1조|
