@@ -19,8 +19,8 @@
 |[15week](https://github.com/juyeonyoon/BITAmin/tree/main/15week)|군집화|2022.01.22.Sat|5조|
 |[16week](https://github.com/juyeonyoon/BITAmin/tree/main/16week)|B-day 복습프로젝트|2022.02.05.Sat|
 ||||
-<!--
 |**2학기**|**학습 내용**|**날짜**||
+<!--
 |[1week]|딥러닝 개요    |2022.02.19.Sat|6조|
 |[2week]|과대적합, CNN|2022.03.02.Wed|1조|
 |[3week]|RNN|2022.03.09.Wed|2조|
